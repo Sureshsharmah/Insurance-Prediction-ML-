@@ -1,12 +1,12 @@
 # Insurance Enrollment Prediction Analysis Report  
-**Date**: [Insert Date]  
-**Author**: [Your Name]  
+**Date**: 09/05/2025
+**Author**: Suresh Sharma
 **Version**: 1.0  
 
 ---
 
 ## Executive Summary  
-This report analyzes employee insurance enrollment patterns using machine learning. Our Gradient Boosting model achieves **93% AUC-ROC**, accurately identifying employees likely to enroll based on demographic and employment characteristics. Key findings reveal salary, dependents status, and marital status as primary enrollment drivers.
+This report analyzes employee insurance enrollment patterns using machine learning. Gradient Boosting model achieves **93% AUC-ROC**, accurately identifying employees likely to enroll based on demographic and employment characteristics. Key findings reveal salary, dependents status, and marital status as primary enrollment drivers.
 
 ---
 
@@ -95,7 +95,3 @@ Top 3 Features:
 
 ---
 
-## Appendix  
-- [Data Dictionary](#)  
-- [Model Training Code](#)  
-- [SHAP Analysis Notebook](#)  
