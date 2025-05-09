@@ -43,7 +43,7 @@ insurance-prediction/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Sureshsharmah/insurance-prediction.git
+git clone [https://github.com/Sureshsharmah/insurance-prediction.git](https://github.com/Sureshsharmah/Insurance-Prediction-ML-)
 cd insurance-prediction
 
 
@@ -108,4 +108,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Suresh Sharma
 Aspiring Data Scientist | Machine Learning Enthusiast
 LinkedIn = 'https://www.linkedin.com/in/suresh-sharma-90942b231/'
-GitHub = 'https://github.com/Sureshsharmah'
+GitHub = 'https://github.com/Sureshsharmah/Insurance-Prediction-ML-'
